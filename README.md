@@ -10,6 +10,8 @@ Fab Academy consists of both classes **online and offline disciplines**, a metho
 
 *In specific cases such as mine, we do not obtain a diploma. We take the programme with lower requirements as part of the Master in Design for Emergent Futures programme. Anyways this repository is a showcase for the work we do.*
 
+![Mdef Alumni during a FA class](/images/mdef.jpg)
+
 # 👉A (local) Digital Fabrication Playground
 
 **Once enrolled in Fab Academy you will learn how to use the Fab Lab’s digital fabrication tools, machines and skills such as: Project management, Computer design, Computer-controlled cutting, Electronics, 3D scanning and printing, Electronics design, Computer-controlled machining, Embedded programming, Molding and casting, Networking and communications, Mechanical design, Interface and application programming and Machine design. In addition to the Global Lectures, there are two days each week where you will receive specific support for your project and have access to Fab Lab Barcelona’s workshop and digital fabrication equipment.**
@@ -67,3 +69,4 @@ The documentation of the course:
 - **Invention, intellectual property, and income**
 *An introduction to key concepts that will help you bring your projects or product to the market.*
 
+Descripciones de [Fab Academy Barcelona](https://fablabbcn.org/fab_academy.html)
