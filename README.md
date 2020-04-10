@@ -10,7 +10,7 @@ Fab Academy consists of both classes **online and offline disciplines**, a metho
 
 *In specific cases such as mine, we do not obtain a diploma. We take the programme with lower requirements as part of the Master in Design for Emergent Futures programme. Anyways this repository is a showcase for the work we do.*
 
-![Mdef Alumni during a FA class](/images/mdef.jpg)
+![Mdef Alumni during a FA class](/src/assets/images/mdef.jpg)
 
 # 👉A (local) Digital Fabrication Playground
 
