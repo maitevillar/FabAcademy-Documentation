@@ -2,7 +2,7 @@
 Documentation of the work done with digital fabrication tools
 
 # 👉IAAC Master of Design for Emergent Futures
-The course is delivered in collaboration with as, students from the **IAAC Master of Design for Emergent Futures**. Previous as Alumni of the program we have trained with future-skills to build roles in the global Fab Lab network, established our own design studios or also become entrepreneurs in the innovation and social design fields.
+The course is delivered in collaboration with us, students from the **IAAC Master of Design for Emergent Futures**. Previous as Alumni of the program we have trained with future-skills to build roles in the global Fab Lab network, established our own design studios or also become entrepreneurs in the innovation and social design fields.
 
 # 👉What is Fab Academy?
 
