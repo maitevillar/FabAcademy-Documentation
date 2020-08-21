@@ -18,6 +18,7 @@ Fab Academy consists of both classes **online and offline disciplines**, a metho
 
 By the end of the course, you will have the essential knowledge to plan, develop and prototype a final project. You will also have a comprehensive understanding of how to plan a sustainable business and how to share cutting-edge designs in an open-source environment.
 
+# 👉IAAC Master of Design for Emergent Futures
 The course is delivered in collaboration with students from the **IAAC Master of Design for Emergent Futures**, this provides an excellent opportunity to expand professional and personal experiences. Previous Alumni of the program have used the future-skills gained to build leading roles in the global Fab Lab network, established their own design studios and have also become entrepreneurs in the innovation and social design fields.
 
 # 💻what are you going to find in this repository?
