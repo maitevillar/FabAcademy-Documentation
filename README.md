@@ -1,5 +1,8 @@
 # FabAcademy-Documentation
-Documentation of work done with digital fabrication tools
+Documentation of the work done with digital fabrication tools
+
+# 👉IAAC Master of Design for Emergent Futures
+The course is delivered in collaboration with as, students from the **IAAC Master of Design for Emergent Futures**. Previous as Alumni of the program we have trained with future-skills to build roles in the global Fab Lab network, established our own design studios or also become entrepreneurs in the innovation and social design fields.
 
 # 👉What is Fab Academy?
 
@@ -17,9 +20,6 @@ Fab Academy consists of both classes **online and offline disciplines**, a metho
 **Once enrolled in Fab Academy you will learn how to use the Fab Lab’s digital fabrication tools, machines and skills such as: Project management, Computer design, Computer-controlled cutting, Electronics, 3D scanning and printing, Electronics design, Computer-controlled machining, Embedded programming, Molding and casting, Networking and communications, Mechanical design, Interface and application programming and Machine design. In addition to the Global Lectures, there are two days each week where you will receive specific support for your project and have access to Fab Lab Barcelona’s workshop and digital fabrication equipment.**
 
 By the end of the course, you will have the essential knowledge to plan, develop and prototype a final project. You will also have a comprehensive understanding of how to plan a sustainable business and how to share cutting-edge designs in an open-source environment.
-
-# 👉IAAC Master of Design for Emergent Futures
-The course is delivered in collaboration with students from the **IAAC Master of Design for Emergent Futures**, this provides an excellent opportunity to expand professional and personal experiences. Previous Alumni of the program have used the future-skills gained to build leading roles in the global Fab Lab network, established their own design studios and have also become entrepreneurs in the innovation and social design fields.
 
 # 💻what are you going to find in this repository?
 
